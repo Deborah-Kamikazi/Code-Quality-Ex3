@@ -1,1 +1,1 @@
-const remove = (number)=>{return [...new Set(number)]}
+const remove = (number)=> [...new Set(number)]
