@@ -1,0 +1,1 @@
+const sum = (numbers)=> { return numbers.length===0? 0 : numbers[0] + sum(numbers.slice(1)) } 
