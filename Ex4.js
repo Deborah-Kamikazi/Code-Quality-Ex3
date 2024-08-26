@@ -1,0 +1,1 @@
+const remove = (number)=> [...new Set(number)]
